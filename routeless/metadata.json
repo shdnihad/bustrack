@@ -1,0 +1,8 @@
+{
+  "name": "ROUTELESS",
+  "description": "Offline-first rural student transit planner, driver operations console, and crisis reallocation prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
